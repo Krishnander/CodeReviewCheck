@@ -1,5 +1,3 @@
-## Placeholder
-
 import os
 
 def bad_function(x, y):
